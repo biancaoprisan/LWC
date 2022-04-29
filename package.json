@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/biancaoprisan.lwc-l2kdfzy8-fork-l2kdi7ew",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nU3KIDmpQxnanK2Skxw2 --open"
+  }
+}
